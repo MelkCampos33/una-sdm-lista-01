@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_ratreamento", "lista_ratreamento.csproj", "{3E375E60-D1B8-5A3D-43E6-F6C3AA5EFC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E375E60-D1B8-5A3D-43E6-F6C3AA5EFC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E375E60-D1B8-5A3D-43E6-F6C3AA5EFC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E375E60-D1B8-5A3D-43E6-F6C3AA5EFC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E375E60-D1B8-5A3D-43E6-F6C3AA5EFC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD1DC40-3D7C-446F-BB3E-B716C7C8B9F4}
+	EndGlobalSection
+EndGlobal
