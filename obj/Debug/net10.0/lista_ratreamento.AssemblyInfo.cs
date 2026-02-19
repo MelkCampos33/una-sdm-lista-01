@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lista_ratreamento")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e41a7fd0d014b4f6ef135261db835398364a45c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72f1e486de9aae4aaf74cb130af79aeeb86d1d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("lista_ratreamento")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lista_ratreamento")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
